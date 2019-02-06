@@ -5,6 +5,7 @@ public class Mult308 {
 		// TODO Auto-generated method stub
 		int x =5, y =3;
 		System.out.println(x * y);
+		return;
 	}
 
 }
